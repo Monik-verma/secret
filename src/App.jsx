@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function App() {
   return (
-    <div>lund mc, kaisan baaa </div>
+    <>
+    gity hjdnb adfbjnsd lfgbj dsbhfbds jfagsdj fsd hfn jsgdfbdsm fjwd bhfukjs adbuif awdlguif rh;we baopurewug 
+    </>
   )
 }
